@@ -1,4 +1,4 @@
-const XMLHttpRequest = require('xmlhttprequest');
+const XMLHttpRequest = require('xmlhttprequest').XMLHttpRequest;
 const API = 'https://api.escuelajs.co/api/v1';
 
 //para recibir informacion -traer información de la anterior url-
