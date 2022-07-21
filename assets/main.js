@@ -1,12 +1,12 @@
-const API = 'https://youtube-v31.p.rapidapi.com/search?channelId=UCw05fUBPwmpu-ehXFMqfdMw&part=snippet%2Cid&order=date&maxResults=9';
+const API = 'https://www.youtube.com/embed/videoseries?list=PLueSsQ_XM09ouL8g6TWYLNyJuWlEk8yae'; //modificado y sin funsión aún
 
 const content = null || document.getElementById('content');
 
 const options = {
   method: 'GET',
   headers: {
-    'X-RapidAPI-Host': 'youtube-v31.p.rapidapi.com',
-    'X-RapidAPI-Key': 'c68edbdba9mshc3cb6eb8038f3b2p1f444ajsna5de19fe1256'
+    'X-RapidAPI-Host': 'youtube-v31.p.rapidapi.com', //hay que replazar esta parte
+    'X-RapidAPI-Key': 'c68edbdba9mshc3cb6eb8038f3b2p1f444ajsna5de19fe1256' //hay que remplazar esta parte
   }
 };
 
