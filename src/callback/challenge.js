@@ -41,3 +41,4 @@ fetchData(`${API}/products`, function (error1, data1) { // llamamos la función 
         console.log(data1[1].price);
     }, 5000); // tiempo en milisegundos para ejecutar esos console.log.
 });
+
