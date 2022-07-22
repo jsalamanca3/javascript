@@ -1,6 +1,6 @@
 # javascript
 
-Esta es una página increíble para el [ curso de Git y Github](https://platzi.com/clases/3175-asincronismo-js/50097-fetch/ " curso de Asincronismo con Java Script") de [Platzi](https://platzi.com/ "Platzi")
+Esta es una página increíble para el [ curso de Asincronismo con JavaScript](https://platzi.com/clases/3175-asincronismo-js/50097-fetch/ " curso de Asincronismo con Java Script") de [Platzi](https://platzi.com/ "Platzi")
 > Nunca Pares de Aprender.
 > Equipo de Platzi
 
