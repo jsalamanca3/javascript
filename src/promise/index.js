@@ -1,6 +1,6 @@
 // promesas -> tienen 3 estados: - pendiente (cuando se esta ejecutando) - completada (cuando regreso la info deseada) - rechazada.
 // para construir una promesa usamos la palabra reservada Promise, nos regresa una función anónima con 2 funciones dentro (resolve, reject).
-const promise = new Promise(function (resolve, reject) { //estructura básica de una promesa. 
+const promise = new Promise(function (resolve, reject) { //estructura básica de una promesa.
     resolve('todo bien');
 });
 // para el ej. con 10 vacas cumplimos con el suministro de leche necesario, con menos vacas dejamos de cumplirlo.
